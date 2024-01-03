@@ -27,7 +27,7 @@ if TYPE_CHECKING:
 
 class Agent:
     """
-    Base class for a model agent in Mesa. Test
+    Base class for a model agent in Mesa. Test build
 
     Attributes:
         unique_id (int): A unique identifier for this agent.
